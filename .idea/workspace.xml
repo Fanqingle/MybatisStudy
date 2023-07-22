@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec082519-cfdc-4c94-8bcb-6aa89b3d3334" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base01/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base01/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base01/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base01/src/test/java/org/example/SqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/base01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/base01/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +79,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690012551673</updated>
-      <workItem from="1690012553125" duration="409000" />
+      <workItem from="1690012553125" duration="776000" />
     </task>
+    <task id="LOCAL-00001" summary="小乐哥 初始化提交">
+      <created>1690013304255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690013304255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="小乐哥 初始化提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="小乐哥 初始化提交" />
   </component>
 </project>
